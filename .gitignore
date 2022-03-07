@@ -1,0 +1,25 @@
+# Project #
+###################
+node_modules
+data/*.xlsx
+new files/*.xlsx
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
